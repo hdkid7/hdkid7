@@ -5,7 +5,7 @@
 -  🎮 Next project will be creating a game in Phaser Js (Game advertisement website) or a project in Clojure
 -  🐍 I’m currently learning Clojure and Python
 -  🥅 2020 Goals: Contribute more to Open Source projects and start my own blog
--  🐧 Fun Fact: Linux enthsiast who loves to workout and play basketball
+-  🐧 Fun Fact: Linux enthusiast who loves to workout and play basketball
 
 
 ### Checkout my portfolio!:
