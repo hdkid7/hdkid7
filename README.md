@@ -1,7 +1,7 @@
 # Hi! Thank you for visiting my Github Profile, I'm Hamed 👋
 
-## I'm a Developer
--  🍔 I’m currently working on improving my restaurant website and increasing my Bash scripting skills
+## I'm a Software Engineer based in New York, NY
+-  🍔 I’m currently working on an Ecommerce web application
 -  🎮 Next project will be creating a game in Phaser Js (Game advertisement website) or a project in Clojure
 -  🐍 I’m currently learning Clojure and C
 -  🥅 2020 Goals: Contribute more to Open Source projects and start my own blog
