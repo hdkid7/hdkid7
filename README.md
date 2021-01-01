@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer based in New York, NY
 -  🍔 I’m currently working on an Ecommerce web application
--    Reading Head First Design Patterns
+-  📚 Reading Head First Design Patterns
 -  🎮 Next project will be creating a game in Unity implementing AI
 -  🐍 I’m currently learning Unity in C#
 -  🥅 2020 Goals: Contribute more to Open Source projects and start my own blog
