@@ -34,7 +34,7 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdkid7&show_icons=true&theme=tokyonight&layout=normal&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdkid7&show_icons=true&theme=tokyonight&layout=donut&hide_progress=false)
 
 
 [website]: https://hameddiakite.com
