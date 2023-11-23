@@ -15,7 +15,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <br />
 ### Languages and Tools:
-<p align="left">
+<p style="display:flex;">
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=html"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=css"  />
