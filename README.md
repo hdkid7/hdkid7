@@ -34,8 +34,9 @@
 <br />
 <br />
 <div>
+  
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=hdkid7&show_icons=true&theme=tokyonight&layout=normal&hide_progress=false](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdkid7&show_icons=true&theme=tokyonight&layout=normal&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
