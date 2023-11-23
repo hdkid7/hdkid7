@@ -1,6 +1,6 @@
 # Hi! Nice to meet you, I'm Hamed 👋
-<img style="width=50%" src="https://github.com/hdkid7/hdkid7/assets/42691143/c6ed1e48-59d0-46cd-9a7d-817003988e74"/>
-
+<img alt="programming" width="180" src="https://github.com/hdkid7/hdkid7/assets/42691143/c6ed1e48-59d0-46cd-9a7d-817003988e74"/>
+<br/>
 **`Software Engineer (Developer/Programmer)`** 
 
 
