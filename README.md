@@ -1,6 +1,8 @@
-# Hi! Thank you for visiting my Github Profile, I'm Hamed 👋
+# Hi! Nice to meet you, I'm Hamed 👋
+![coding-animated-laptop-flow-stream-ja04010rm5o68zfk](https://github.com/hdkid7/hdkid7/assets/42691143/c6ed1e48-59d0-46cd-9a7d-817003988e74)
 
 **`Software Engineer (Developer/Programmer)`** 
+
 
 ## I'm a Software Engineer based in New York, NY
 -  🍔 I’m currently working on a 2D platformer game using PhaserJS
