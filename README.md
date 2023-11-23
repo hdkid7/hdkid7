@@ -11,6 +11,11 @@
 
 
 ### Checkout my portfolio!:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<br />
+### Languages and Tools:
+<p align="left">
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=js"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=html"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=css"  />
@@ -20,11 +25,7 @@
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=sass"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=ts"  />
 <img width="40px" style="padding-right: 10px;" src="https://skillicons.dev/icons?i=php"  />
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<br />
-### Languages and Tools:
-
+</p>
 
 
 <br />
